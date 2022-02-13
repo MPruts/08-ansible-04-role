@@ -1,0 +1,13 @@
+---
+elasticsearch:
+  hosts:
+    el-instance:
+      ansible_host: 84.201.177.89
+kibana:
+  hosts:
+    k-instance:
+      ansible_host: 62.84.120.100
+filebeat:
+  hosts:
+    f-instance:
+      ansible_host: 84.201.164.207
